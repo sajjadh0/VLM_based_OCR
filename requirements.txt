@@ -1,0 +1,13 @@
+# Core
+PyMuPDF>=1.23.6
+python-docx>=1.2.0
+langchain>=0.3.21
+langchain-openai>=0.2.5
+langchain-core>=0.3.12
+pydantic>=2.8.0
+
+# Image rendering & prompt helpers
+Pillow>=10.4.0
+
+# Environment
+python-dotenv>=1.0.1
